@@ -19,6 +19,7 @@ This repo is connected to /var/www/vhosts/karmaclub.com/httpsdocs/edm-kc/
 5. It will sync the Karma-1a and Karma-1b
 
 Rock & Roll..
+Good Luck Team!
 
 #Contributor
 Ferry Yudhitama ferry.yudhitama@karmagroup.com
