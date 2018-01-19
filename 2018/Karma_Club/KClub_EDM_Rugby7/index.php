@@ -428,21 +428,21 @@
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:45px 40px 15px 40px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-						<strong>The HSBC World Rugby 7’s Series is Back in Sydney!</strong></p>
+						<strong>The HSBC World Rugby 7&#x2019;s Series is Back in Sydney!</strong></p>
 </td>
         </tr>
-        <tr>
+				<tr>
 				 <td align="center" bgcolor="#ffffff">&nbsp;</td>
 			 	</tr>
 
         <tr>
    	      <td align="center" bgcolor="#eee" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
-						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">Karma Group, as a Proud Sponsor of the England Rugby 7’s Squad for the 2018 HSBC Rugby 7’s Series are giving away some awesome prizes.</p>
+						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">Karma Group, as a Proud Sponsor of the England Rugby 7&#x2019;s Squad for the 2018 HSBC Rugby 7&#x2019;s Series are giving away some awesome prizes.</p>
 						<br/>
-						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #807050; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;"><strong>WIN 4 TICKETS TO THE HSBC SYDNEY RUGBY 7’s</strong></p>
-						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 11px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;font-style: italic">* Tickets are Reserved Seat Tickets for Saturday 27th January 2018.</p>
+						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #807050; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;"><strong>WIN 4 SYDNEY RUGBY 7&#x2019;s TICKETS</strong></p>
+						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 11px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;font-style: italic">*reserved for Saturday 27th January 2018.</p>
 						<br/>
-						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">Saturday is the day to let your hair down! Get your Super Hero Costume on! And head down to the Sydney Allianz Stadium to watch some of the world’s best Men’s and Women’s Rugby 7s talent fight it out for glory!</p>
+						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">Saturday is the day to let your hair down! Get your Super Hero Costume on! And head down to the Sydney Allianz Stadium to watch some of the world&#x2019;s best Men&#x2019;s and Women&#x2019;s&#xa0;Rugby 7s&#xa0;talent fight it out for glory!</p>
 						<br/>
 						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;"><strong>Winners will be notified by email and / or telephone<br/>by close of business on Wednesday 24th 2018.</strong></p>
 					</td>
@@ -520,24 +520,16 @@ DOWNLOAD OUR NEW KARMA GROUP APP AND EXPLORE A WORLD OF KARMA<br/><br/>
             </table></td>
           </tr>
 					<tr>
-            	<td align="center" bgcolor="#ffffff"><table class="responsive_small" width="65%" border="0" cellspacing="0" cellpadding="0">
-   	        <tbody><tr>
-   	           <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext2" style="font-family: 'Open Sans', Arial, sans-serif; padding-right: 5px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 15px; color: #8e744b; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
-1800 458 271 (Australia)<br>
-180 021 001 06 (India)<br>
-    &nbsp;
-</p></td>
-   	             	           <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext2" style="font-family: 'Open Sans', Arial, sans-serif;border-left: 1px solid #8e744b;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 15px; color: #8e744b; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: right;">
-0800 852 3310 (Singapore)<br>
-0800 456 201 (New Zealand)<br>
-    &nbsp;
-</p></td>
- 	          </tr>
- 	        </tbody></table></td>
+            	<td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext2" style="font-family: 'Open Sans', Arial, sans-serif; padding-right: 5px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 15px; color: #8e744b; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+								1800 458 271 (Australia)<br>
+								0800 456 201 (New Zealand)<br>
+								0800 852 3310 (Singapore)<br>
+							</p>
+							</td>
             </tr>
 						<tr>
    	      <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:10px 40px 10px 40px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 15px; color: #8e744b; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-            skype: <a href="skype:karmaclubconcierge?call">karmaclub.concierge</a>&nbsp;&nbsp;•&nbsp; e-mail: <a style="color:#8d7249;text-decoration:underline;" href="mailto:info@karmaclub.com">karmaclub.concierge@karmaclub.com</a> &nbsp;&nbsp; <a style="color:#8d7249;text-decoration:underline;" href="https://karmaclub.com/" target="_blank">www.karmaclub.com</a></p>
+            skype: <a href="skype:karmaclubconcierge?call">karmaclub.concierge</a>&nbsp;&nbsp;&#x2022;&nbsp; e-mail: <a style="color:#8d7249;text-decoration:underline;" href="mailto:info@karmaclub.com">karmaclub.concierge@karmaclub.com</a> &nbsp;&nbsp; <a style="color:#8d7249;text-decoration:underline;" href="https://karmaclub.com/" target="_blank">www.karmaclub.com</a></p>
 					</td>
         </tr>
         <tr>
