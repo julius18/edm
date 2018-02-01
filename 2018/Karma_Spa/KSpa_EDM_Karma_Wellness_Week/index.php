@@ -847,7 +847,7 @@
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:45px 40px 15px 40px;">
 						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
 
-							Hi <?php echo isset($_GET['name'])? $_GET['name']:'member' ?>,
+							Hello,
 						</p>
 
 					</td>
