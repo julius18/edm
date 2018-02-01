@@ -897,7 +897,7 @@
 
          <tr>
 
-   	      <td align="center" bgcolor="#ffffff"><a href="#">
+   	      <td align="center" bgcolor="#ffffff"><a href="https://karmagroup.com/karma-wellness-week/" target="_blank">
 						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Fitness_&_Spa_Week/images/CTA.png" width="226" height="39" />
 					</a>
 				</td>
