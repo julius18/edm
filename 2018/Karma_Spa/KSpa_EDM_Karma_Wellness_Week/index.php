@@ -2,7 +2,7 @@
 
 <html><head>
 
-<title>Karma Beach</title>
+<title>Karma Spa</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
@@ -838,7 +838,7 @@
 
         <tr>
 
-   	      <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Fitness_&_Spa_Week/images/main_header.png" width="720" height="490" class="responsive_small" /></td>
+   	      <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Wellness_Week/images/main_header.png" width="720" height="490" class="responsive_small" /></td>
 
         </tr>
 
@@ -847,7 +847,7 @@
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:45px 40px 15px 40px;">
 						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
 
-							Dear <?php echo isset($_GET['name'])? $_GET['name']:'member' ?>,
+							Hi <?php echo isset($_GET['name'])? $_GET['name']:'member' ?>,
 						</p>
 
 					</td>
@@ -862,27 +862,12 @@
 
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
 						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-
-
-							Whatever your goals are for the year ahead, <br />
-							there's one thing we all need to do more of - and that's to MOVE.
-							<br />
-							<br />
-
-							Whether you are into yoga or want to work-out with one of the England Rugby Seven <br />
-							or keen to learn Muay Thai boxing, we've got this covered.
-							<br />
-							<br />
-							Karma Fitness and Spa Week is 10 days of complimentary daily fitness classes,<br />
-							healthy cuisine and up to 50% off all massages - all week!
-							<br />
-							<br />
-
-							Are you ready for your resurection?
-							<br />
-							Your transformation begins here.
+							Are you ready for your transformation?
 							<br /><br />
-
+							Want to hike through the Bavarian mountains, hone your pilates and yoga skills on a tropical island or push the limits in HIT interval training? Inspired by their partnership with the Rugby Football Union (RFU) and the England Sevens team for 2017/18, including hosting the England Sevens in Bali after the 2018 Commonwealth Games in Brisbane, Australia, Karma launches it&#x2019;s first  <i>#karmawellnessweek</i> at all Karma Resorts around the globe.
+							<br />
+							<br />
+							#karmawellnessweek is 10 days of complimentary daily fitness classes, healthy cuisine and up to 50% off all massages - as well as pop-up 	nutrition workshops, healthy cooking classes and juice-making events.
 						</p>
 
 					</td>
@@ -898,7 +883,7 @@
          <tr>
 
    	      <td align="center" bgcolor="#ffffff"><a href="https://karmagroup.com/karma-wellness-week/" target="_blank">
-						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Fitness_&_Spa_Week/images/CTA.png" width="226" height="39" />
+						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Wellness_Week/images/CTA.png" width="226" height="39" />
 					</a>
 				</td>
 
@@ -925,7 +910,7 @@
          <tr>
 
           <td align="center" valign="top" bgcolor="#ffffff">
-						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Fitness_&_Spa_Week/images/Photo_Reel_3.png" width="720" height="186" class="responsive_small" />
+						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Karma_Wellness_Week/images/photo-reel.png" width="720" height="186" class="responsive_small" />
 					</td>
 
         </tr>
