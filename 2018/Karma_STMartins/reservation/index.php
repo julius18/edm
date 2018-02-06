@@ -868,7 +868,7 @@
                       Confirmation No.
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -885,7 +885,7 @@
                       Guest Name
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -902,7 +902,7 @@
                       Arrival Date
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -919,7 +919,7 @@
                       Departure Date
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -936,7 +936,7 @@
                       Number of Guests
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -953,7 +953,7 @@
                       Number of Rooms
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -970,7 +970,7 @@
                       Room Type
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -987,7 +987,7 @@
                       Rate type
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -1004,7 +1004,7 @@
                       Nightly Rate per room
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -1021,7 +1021,7 @@
                       Total Cost of Stay
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -1038,7 +1038,7 @@
                       Deposit paid to hotel
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -1055,7 +1055,7 @@
                       Balance due at Hotel
         						</p>
                   </td>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: left;">
                       :
         						</p>
@@ -1091,7 +1091,7 @@
 						</p>
             <hr width="10%" align="center" color="#85724e"><br />
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
-              A charge of £10 per night is made to accommodate a dog sharing your room, on the understanding that any damage will be paid for on departure. We are unable to provide dog food; however, dog dietary is available at the nearby post office store.
+              A charge of &#xa3;10 per night is made to accommodate a dog sharing your room, on the understanding that any damage will be paid for on departure. We are unable to provide dog food; however, dog dietary is available at the nearby post office store.
 						</p>
           </td>
         </tr>
@@ -1104,7 +1104,7 @@
             <table>
               <tbody>
                 <tr>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
                       ( 1 )
                     </p>
@@ -1116,7 +1116,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
                       ( 2 )
                     </p>
@@ -1128,7 +1128,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
                       ( 3 )
                     </p>
@@ -1140,7 +1140,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
                       ( 4 )
                     </p>
@@ -1152,7 +1152,7 @@
                   </td>
                 </tr>
                 <tr>
-                  <td width="10%" style="vertical-align: text-bottom">
+                  <td width="10%" valign="top">
                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: justify;">
                       ( 5 )
                     </p>
@@ -1209,10 +1209,10 @@
 
    	      <td align="center" bgcolor="#eee" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:35px 40px 35px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 900; font-size: 16px; color: #85724e; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              <strong>KARMA ST.MARTIN’S</strong>
+              <strong>KARMA ST.MARTIN&#x2019;S</strong>
             </p>
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; color: #000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Isles of Scilly, Lower Town, St.Martin’s, TR25 0QW, England
+              Isles of Scilly, Lower Town, St.Martin&#x2019;s, TR25 0QW, England
             </p>
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; color: #000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
               T : +44 (0)3 333 232 353 (toll free)   | <br class="br"/> E : st.martins@karmaresorts.com
@@ -1237,7 +1237,7 @@
         <tr>
           <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #37474f; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Find out more about this programme or other Karma Group promotional offers and be the first to express interest in our exclusive events, click <a href="#">HERE</a>
+              Find out more about this programme or other Karma Group promotional offers and be the first to express interest in our exclusive events, click <a target="_blank" href="http://karmagroup.com">HERE</a>
             </p>
           </td>
         </tr>
