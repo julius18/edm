@@ -825,7 +825,6 @@
   <tr>
 
     <td bgcolor="#e5e5e5" align="center">
-
    	  <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
 
         <tr>
@@ -843,7 +842,7 @@
         <tr>
 
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:45px 40px 15px 40px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-            Hi <?php echo isset($_GET['firstname'])? $_GET['firstname']:'member'; ?>,</p>
+            Hi <?php echo isset($_GET['firstname'])? $_GET['firstname'] : 'Member' ?>,</p>
           </td>
 
         </tr>
@@ -852,18 +851,6 @@
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
             Experience the glory and excitement of a traditional Chinese New Year&#x2019;s Eve with the whole family on February 16 in a fiery fiesta of exotic colors, flavors and beats. &#xa0;Featuring a lavish array of festive delicacies, cocktails and vintage pours as well as dancing dragons at sunset, we offer cultural immersion with tropical island vibe at our luxurious cliff-top eatery. &#xa0;Gong Xi Fa Chai!
           </p>
-        </tr>
-        <tr>
-   	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
-            <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #85724e; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-             <strong>ENTRANCE FEE</strong>
-          </p>
-          <hr width="5%" align="center" color="#85724e"><br />
-          <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-          <strong>Rp. 500,000</strong><br />
-          Villa, Breakfast, Champagne bottle & Cupid&#x2019;s Sun Bed Dinner<br />
-          IDR 10,000,000++/Couple
-        </p>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
@@ -877,17 +864,16 @@
         <tr>
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
         </tr>
-
          <tr>
-
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
         </tr>
-
         <tr>
-
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
+        </tr>
+        <tr>
+   	      <td align="center" bgcolor="#eee" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:35px 40px 35px 40px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 900; font-size: 16px;; color: #85724e; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+            ENTRANCE FEE RP. 500,000<br><span style="color:#000000;font-size:13px;">including Rp. 300,000 food and beverage credit.</span></p>
+          </td>
         </tr>
          <tr>
 
