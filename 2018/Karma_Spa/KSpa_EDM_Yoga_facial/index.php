@@ -846,28 +846,27 @@
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
         </tr>
 
-        <tr>
-   	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
-						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center; letter-spacing: 0.1px;">
-							A beautifully slow facial to nourish the skin and nurture your mind.
-							<br />
-							The unique 45-minute sequence consists of a mind-soothing blend of skin firming and toning massage, It is delivered with the purest of ingredients including virgin coconut oil. Depart feeling centered and clear.
-							<br />
-							<br />
-							#karmawellnessweek is 10 days of complimentary daily fitness classes, healthy cuisine and up to 50% off all massages - as well as pop-up 	nutrition workshops, healthy cooking classes and juice-making events.
-							<br />
-							<br />
-							<b>WHAT THE MEDIA ARE SAYING:</b>
-							<br />
-							<em>&#x2019;A deeply relaxing experience - all the tension held in your face (and mind) seems to melt away&#x2019;</em> 360 BALI GUIDE
-							<br />
-							<br />
-							<em>&#x2019;Rest regenerates the skin at a deep cellular level - be prepared to sleep, drift and dream&#x2019;</em>&nbsp;&nbsp;Judy Chapman, Spa Ambassador
-						</p>
+       <tr>
+							<td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
+								<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center; letter-spacing: 0.1px;">
+									A beautifully slow facial to nourish the skin and nurture your mind.
+									<br /> The unique 45-minute sequence consists of a mind-soothing blend of skin firming and toning massage, It is delivered with
+									the purest of ingredients including virgin coconut oil. Depart feeling centered and clear.
+									<br />
+									<br />
+									<b>WHAT THE MEDIA ARE SAYING:</b>
+									<br />
+									<em>&#x2019;A deeply relaxing experience - all the tension held in your face (and mind) seems to melt away&#x2019;</em>
+									360 BALI GUIDE
+									<br />
+									<br />
+									<em>&#x2019;Rest regenerates the skin at a deep cellular level - be prepared to sleep, drift and dream&#x2019;</em>&nbsp;&nbsp;Judy
+									Chapman, Spa Ambassador
+								</p>
 
-					</td>
+							</td>
 
-		</tr>
+						</tr>
 		 <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
 						<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center; letter-spacing: 0.1px;">
