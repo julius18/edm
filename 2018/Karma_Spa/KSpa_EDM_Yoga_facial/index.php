@@ -959,7 +959,6 @@
 											<img src="http://karmaresorts.com/wecreate/edm/Karma_Beach/russian-party/images/apple.jpg" width="124" height="52"></a>
 										<br>
 										<span style="color:#434343;font-size:11px;">Receive 15% discount when booking a Karma Resort through our Karma App.</span>
-
 									</p>
 								</td>
 							</tr>
@@ -987,9 +986,7 @@
         </tr>
 
         <tr>
-
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
         </tr>
 
     </table></td>
