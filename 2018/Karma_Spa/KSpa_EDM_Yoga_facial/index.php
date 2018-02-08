@@ -918,14 +918,6 @@
 
         </tr>
 
-         <tr>
-
-          <td align="center" valign="top" bgcolor="#ffffff">
-						<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Yoga_facial/images/photo-reel.png" width="720" height="186" class="responsive_small" />
-					</td>
-
-        </tr>
-
         <tr>
 
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
@@ -979,7 +971,7 @@
 
           <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><a target="_blank" href="https://www.facebook.com/karmagroupglobal"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/FB.jpg" width="49" height="36"></a><a target="_blank" href="https://twitter.com/karmaresorts/"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/TW.jpg" width="55" height="36"></a><a href="https://www.instagram.com/karma.group/" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/honeymoon/images/instagram.jpg" width="58" height="36"></a><a href="https://plus.google.com/+Karmaresorts/about/" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/google.jpg" width="47" height="36"></a></p>
 
-          <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/KK_EDM_Redesign_170316---Copy_31.jpg" width="300" height="29" /></p
+          <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Yoga_facial/images/wecreate-wellness.jpg" width="257" height="17" /></p
 
           >          <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><a href="https://karmagroup.com/" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/KK_EDM_Redesign_170316---Copy_35.jpg" width="208" height="21" /></a></p></td>
 
