@@ -924,13 +924,12 @@
 
         </tr>
 
-                <tr>
+        <tr>
 
    	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
 
         </tr>
 
-        </tr>
 			<tr>
 				<td align="center" bgcolor="#ffffff">
 					<table width="70%" border="0" cellpadding="0" cellspacing="0" class="small_block">
