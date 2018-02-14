@@ -874,7 +874,7 @@
 							<br />
 							<strong>KARMA KANDARA:</strong> Includes a complimentary Infrared Sauna Session.
 							 <br />
-							<strong>KARMA JIMBARAN;</strong> Includes a a complimentary  60-minute Karma Rhythm Massage.
+							<strong>KARMA JIMBARAN;</strong> Includes a a complimentary  45-minute Karma Rhythm Massage.
 						</p>
 
 		</td>
@@ -918,51 +918,6 @@
 
         </tr>
 
-        <tr>
-
-   	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
-        </tr>
-
-        <tr>
-
-   	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
-        </tr>
-
-			<tr>
-				<td align="center" bgcolor="#ffffff">
-					<table width="70%" border="0" cellpadding="0" cellspacing="0" class="small_block">
-						<tbody>
-							<tr>
-								<td width="50%" align="right">
-									<img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/2018/KBavaria-love-magic-and-fasching-in-the-alps/images/_DSC3101-1_11.jpg"
-									width="214" height="259">
-								</td>
-								<td width="50%" align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:35px 40px 35px 10px;">
-									<p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 600; font-size: 14px; color: #85724e; mso-line-height-rule: exactly;line-height:120%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-										DOWNLOAD OUR NEW KARMA GROUP APP AND EXPLORE A WORLD OF KARMA
-										<br>
-										<br>
-										<a href="https://play.google.com/store/apps/details?id=com.karmagroups" target="_blank">
-											<img src="http://karmaresorts.com/wecreate/edm/Karma_Beach/russian-party/images/google.jpg" width="124" height="52"></a>
-										<a href="https://itunes.apple.com/in/app/karma-resorts/id1296156992?mt=8" target="_blank">
-											<img src="http://karmaresorts.com/wecreate/edm/Karma_Beach/russian-party/images/apple.jpg" width="124" height="52"></a>
-										<br>
-										<span style="color:#434343;font-size:11px;">Receive 15% discount when booking a Karma Resort through our Karma App.</span>
-									</p>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-				</td>
-			</tr>
-
-        <tr>
-
-   	      <td align="center" bgcolor="#ffffff">&nbsp;</td>
-
-        </tr>
 
         <tr>
 
