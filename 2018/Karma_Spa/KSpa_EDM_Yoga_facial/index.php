@@ -901,7 +901,7 @@ You can book your Yoga Facial and/or enter our competition to win a complimentar
 						<tr>
 
 							<td align="center" bgcolor="#ffffff">
-								<a href="mailto:spaasstmgr@karmakandara.com?subject=Inquiry The Yoga Facial" target="_blank">
+								<a href="mailto:spa@karmakandara.com?subject=Inquiry The Yoga Facial" target="_blank">
 									<img src="http://karmaresorts.com/wecreate/edm/Karma_Spa/KSpa_EDM_Yoga_facial/images/enter.jpg" width="122" height="47" />
 								</a>
 							</td>
