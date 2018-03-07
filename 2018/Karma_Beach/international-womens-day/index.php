@@ -820,85 +820,69 @@
    	  <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
 
         <tr>
-
-
-
-
-
         <tr>
 
    	      <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Beach/international-womens-day/images/header.png" width="720" height="406" class="responsive_small" /></td>
 
         </tr>
+				<tr>
 
-        <tr>
+					<td align="center" bgcolor="#ffffff">&nbsp;</td>
 
-   	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:45px 40px 15px 40px;">
-            <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Hi <?php
-						if (isset($_GET['name'])) {
-							if ($_GET['name'] != '[firstname]') {
-								echo $_GET['name'];
-							}
-							else {
-								echo 'member';
-							}
-						}
-						else {
-							echo "member";
-						}
-						 ?>,
+				</tr>
+				<tr>
+
+					<td align="center" bgcolor="#ffffff">&nbsp;</td>
+
+				</tr>
+        <tr>
+   	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
+            <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+							Ladies, lasses, dames, damsels, females, gentlewomen, gals, girls, mesdames, mademoiselles, misses, maidens, mistresses, se&#xf1;oras, se&#xf1;oritas -- goddesses, all:<br>
+							Lay down your endless chores, tasks, or work -- and listen up!
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Ladies, lasses, dames, damsels, females, gentlewomen, gals, girls, mesdames, mademoiselles, misses, maidens, mistresses,se&#xf1;oras, se&#xf1;oritas -- goddesses, all: <br>
-              Lay down your endless chores, tasks, or work -- and listen up!
+							Whether you happen to be amazons, babes, battleaxes, belles, broads, chicks, divas, dolls, femmes fatales, geishas, hens, shrews, skirts or vixens,
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Whether you happen to be amazons, babes, battleaxes, belles, bimbos, broads, chicks, divas, dolls, femmes fatales, geishas, hags, hens, shrews, skirts, vixens, wenches or witches&#x2026;
+							International Women&#x2019;s Day is coming up on March 8, and there&#x2019;s no better way to live it up than with a hair-down, sleeves-up, all-out, barefoot beachside blast.
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              International Women&#x2019;s Day is coming up on March 8, and there&#x2019;s no better way to live it up than with a hair-down, sleeves-up, all-out, barefoot beachside blast.
+							So power up in your beachwear best, round up your friends &#x2013; gals and guys &#x2013; and enjoy an emancipating day of drinks, DJ music, dance and dips on the silky white sands of Karma Beach Bali.
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              So power up in your beachwear best, round up your friends &#x2013; gals and guys &#x2013; and enjoy an emancipating day of drinks, DJ music, dance and dips on the silky white sands of Karma Beach Bali.
+							In honor of the day and as Karma&#x2019;s show of #R-E-S-P-E-C-T to the fair sex for making the world go &#x2018;round, ladies enjoy free entrance and 15% off all food and beverage consumption.
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              In honor of the day and as Karma&#x2019;s show of #R-E-S-P-E-C-T to the fair sex for making the world go &#x2018;round, ladies enjoy free entrance and 15% off all food and beverage consumption.
+							Gentlemen, a little patience, please; your day is coming up, too!<br>
+							Until then: respect, revel, repeat&#x2026;.
             </p>
           </td>
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
             <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              Gentlemen, a little patience, please; your day is coming up, too!<br>
-              Until then: respect, revel, repeat&#x2026;.
-            </p>
-          </td>
-        </tr>
-        <tr>
-   	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:15px 40px 15px 40px;">
-            <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #1d1d1d; mso-line-height-rule: exactly;line-height:180%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-              #ExperienceKarma #KarmaResorts #KarmaBeachBali
+              #ExperienceKarma,#KarmaResorts #KarmaBeachBali
             </p>
           </td>
         </tr>
