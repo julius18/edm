@@ -455,9 +455,9 @@
 						  }
 						?>,<br><br>
 
-          Grow and glow at a women’s wellness festival by our partner, Secrets in the Garden, in a day filled with fun, inspiring health-and-wellness-oriented activities and events.<br><br>
+          Grow and glow at a women&#x2019;s wellness festival by our partner, Secrets in the Garden, in a day filled with fun, inspiring health-and-wellness-oriented activities and events.<br><br>
 
-          Treat yourself to feminine awakening and pampering led by Australia’s foremost female wellness and health experts who will share their secrets for personal and professional success, giving tips on how to cope with anxiety, stress, guilt and hardship.<br><br>
+          Treat yourself to feminine awakening and pampering led by Australia&#x2019;s foremost female wellness and health experts who will share their secrets for personal and professional success, giving tips on how to cope with anxiety, stress, guilt and hardship.<br><br>
 
           Join an inspiring tribe of womenfolk, engage in meaningful dialogue, participate in wellness workshops and activities, indulge in gourmet cuisine, and blossom in a garden of goodness.<br>
         </td>
