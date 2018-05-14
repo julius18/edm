@@ -98,9 +98,9 @@
 		table.small_block > tr > td,
 		table.small_block > tbody > tr > td{
 			display:block;
-			width:100% !important;
-			text-align: center !important;
-			padding:10px !important;
+			width: 90% !important;
+            text-align: left !important;
+            padding:10px !important;
 		}
 		p[class="paragraph"],
 		p.paragraph{
@@ -267,8 +267,8 @@
 		table.small_block > tbody > tr > td{
 			display:block;
 			width:95% !important;
-			text-align: left !important;
-			padding:10px !important;
+            text-align: left !important;
+            padding:10px !important;
 		}
 		table[class="smallest_block"],
 		table[class="smallest_block"] > tbody,
@@ -406,7 +406,25 @@
 		.content{
 			font-size: 14px !important;
 		}
-	}
+    }
+    @media only screen and (max-width: 375px) {
+    table[class="small_block"],
+    table[class="small_block"] > tbody,
+    table[class="small_block"] > tbody > tr,
+    table[class="small_block"] > tr > td,
+    table[class="small_block"] > tbody > tr > td, table.small_block, 
+    table.small_block > tbody, 
+    table.small_block > tbody > tr, 
+    table.small_block > tr > td, 
+    table.small_block > tbody > tr > td {
+        display: block;
+        width: 96% !important;
+        text-align: left !important;
+        padding: 0 !important;
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+}
 </style>
 
 
@@ -426,7 +444,19 @@
         </tr>
         <tr>
    	      <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 20px 40px;"><p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center; letter-spacing: 0.3px">
-   	      Dear member,<br><br>
+   	      Dear <?php
+				if (isset($_GET['firstname'])) {
+					if ($_GET['firstname'] != '[firstname]') {
+						echo $_GET['firstname'];
+					}
+					else {
+						echo 'member';
+					}
+				}
+				else {
+					echo "member";
+				}
+					?>,<br><br>
 			  Karma St. Martin&#x2019;s successfully re-opened its doors in March&#x2026; and what a month it&#x2019;s been! From gourmet dinners and foraging with River Cottage star <a style="color: #807050; text-decoration: none;" target="_blank" href="https://twitter.com/johnmushroom">John Wright</a>, to #KarmaWellnessWeek and the unveiling of our new addition in Cloudesley Shovell restaurant, we&#x2019;ve been treated to some sensational Scilly sunsets, and incredible reviews!<br><br>
 			  If you haven&#x2019;t already done so, get in touch with the Karma St. Martin&#x2019;s team to book your Scilly holiday.<br><br>
 			Here are some of our highlights this month at Karma St. Martin&#x2019;s! 
