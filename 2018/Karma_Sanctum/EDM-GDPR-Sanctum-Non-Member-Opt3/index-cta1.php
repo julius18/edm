@@ -409,8 +409,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-spacing: 0;border-collapse: collapse;">
          <span class="preheader"  style="display: none !important;color:#e5e5e5 !important;"></span>
          <tr>
-            <td bgcolor="#e5e5e5" align="center">
-               <p style="color: #484848;font-size: 12px; font-family:Arial, sans-serif;text-align: center;margin: 5px;margin-bottom: 10px;">If this email is not displaying properly, please <a href="http://karmaresorts.com/wecreate/edm/sanctum-soho/EDM-GDPR-Sanctum-Non-Member-Opt3/index-cta1.php/?firstname=[firstname]&lastname=[lastname]&email=[email]&country=[country]" style="font-family: Arial, sans-serif;color: #96824b;outline: none;border: none;">click here</a></p>
+            <td bgcolor="#e5e5e5" align="center">               
                <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
                     <tr>
                         <td align="center" bgcolor="#ffffff">&nbsp;</td>
@@ -455,7 +454,7 @@
                 </tr>   
                 <tr>
                     <td align="center" bgcolor="#ffffff">
-                        <a href="https://karmagroup.com/newsletter/?firstname=[firstname]&lastname=[lastname]&email=[email]&country=[country]" target="_blank">
+                        <a href="https://karmagroup.com/newsletter/?firstname=<?php echo $_GET['firstname'] ?>&lastname=<?php echo $_GET['lastname'] ?>&email=<?php echo $_GET['email'] ?>&country=<?php echo $_GET['country'] ?>" target="_blank">
                             <img src="http://karmaresorts.com/wecreate/edm/Karma_Group/EDM-GDPR-Non-Member-Opt3/images/CTA.png" width="153" height="77">
                         </a>
                     </td>
@@ -533,11 +532,6 @@
                   <tr>
                      <td align="center" bgcolor="#ffffff">&nbsp;</td>
                   </tr>
-                  <tr>
-                    <td align="center" bgcolor="#ffffff">
-                        <p class="not-receive" style="font-family: Arial, Helvetica, Arial, sans-serif;font-weight:300;font-size:11px;color:#aaaaaa;line-height:1.5;Margin-top:0;Margin-bottom:0;text-align:center;"><unsubscribe>unsubscribe</unsubscribe></p>
-                    </td>
-                 </tr>
                </table>
             </td>
          </tr>
