@@ -5,6 +5,7 @@
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+      <link rel="icon" type="image/png" href="https://karmagroup.com/wp-content/uploads/fbrfg/favicon-32x32.png" sizes="16x16">
       <style type="text/css">
          @media screen {
          @font-face {
@@ -397,7 +398,7 @@
             
             <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
                <tr>
-                  <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/KK_EDM_Cliff_Pool/images/main-header.jpg" width="720" height="490" class="responsive_small" /></td>
+                  <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/KK_EDM_Cliff_Pool/images/main-header-new.jpg" width="720" height="490" class="responsive_small" /></td>
                </tr>
                <tr>
                   <td align="center" bgcolor="#ffffff">&nbsp;</td>
@@ -433,7 +434,7 @@
                   <td align="center" bgcolor="#ffffff">&nbsp;</td>
                </tr>
                <tr>
-                  <td align="center" bgcolor="#ffffff"><a href="mailto:res@karmaresorts.com?subject=Inquiry%20Cliff%20Pool%20Club%20Experience" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/KK_EDM_Cliff_Pool/images/CTA.jpg" width="182" height="39"></a></td>
+                  <td align="center" bgcolor="#ffffff"><a href="mailto:fbadmin@karmakandara.com?subject=Inquiry%20Cliff%20Pool%20Club%20Experience" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/KK_EDM_Cliff_Pool/images/CTA.jpg" width="182" height="39"></a></td>
                </tr>
                <tr>
                   <td align="center" bgcolor="#ffffff">&nbsp;</td>
