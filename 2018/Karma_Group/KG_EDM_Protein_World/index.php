@@ -407,7 +407,6 @@
          <tr>
             <td bgcolor="#e5e5e5" align="center">               
                <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
-
                   <tr>
                      <td width="720" align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Group/KG_EDM_Protein_World/images/main-header.jpg" width="720" height="475" class="responsive_small" /></td>
                   </tr>
@@ -427,7 +426,7 @@
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            Thank you for signing up and celebrating our partnership with Protein World! As well as the chance to win one of two luxury Karma Group holidays in the Summer Body Challenge, as a thank you for getting involved, we are offering you $300 worth of vouchers to use against booking accommodation at any Karma Resort or Retreat.
+                            Thank you for signing up and celebrating our partnership with Protein World! As well as the chance to win one of two luxury Karma Group holidays for those taking part in the Summer Body Challenge, we are offering everyone $300 worth of vouchers to use against booking accommodation at any Karma Resort or Retreat.*
                         </p>
                      </td>
                   </tr>
@@ -451,15 +450,18 @@
                   </tr>
                   <tr>
                     <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
-                        <a href="https://dev.karmagroup.com/WP/protein-world/?userId=<?php echo $_GET['userId'] ?>">
+                        <a href="https://dev.karmagroup.com/WP/protein-world/?userId=<?php echo $_GET['userId']; ?>">
                             <img src="http://karmaresorts.com/wecreate/edm/Karma_Group/KG_EDM_Protein_World/images/cta.png" width="300" height="31" />
                         </a>
                      </td>
                   </tr>
                   <tr>
-                    <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
+                    <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
+                        <p class="fallback-text" style="margin-bottom:10px;font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+                            <strong>Terms and Conditions.</strong>
+                        </p>
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            Please see the full voucher terms and conditions <a href="#" style="text-decoration: underline; color: #000000">here</a>.
+                            *3 x US$100 vouchers against accommodation of 3 nights or more at any Karma Resort or Retreat. One voucher per stay. Vouchers valid for 1 year &#x2013; see expiry date on vouchers. Booking subject to availability and black-out dates. See full voucher T&C&#x2019;s <a href="https://www.proteinworld.com/terms#competition" style="text-decoration: underline; color: #000000"><strong>here</strong></a>, and on digital vouchers.      
                         </p>
                         </td>
                     </tr>
@@ -469,14 +471,7 @@
                             To book your accommodation, please contact the Karma Group reservation team on <a href="mailto:res@karmaresorts.com" style="color: #000000"><strong>res@karmaresorts.com</strong></a> and quote your unique voucher code.
                         </p>
                         </td>
-                    </tr>
-                    <tr>
-                        <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
-                        <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            <strong>email: <a href="mailto:xxxxxxxx@karmagroup.com" style="color: #000000">xxxxxxxx@karmagroup.com</a>   |   call: xxx1234567890</strong>
-                        </p>
-                        </td>
-                    </tr>
+                    </tr>                    
                   <tr>
                      <td align="center" bgcolor="#ffffff"><img src="http://karmaresorts.com/wecreate/edm/Karma_Group/KG_EDM_Protein_World/images/photo-reel.jpg" width="720" height="185" class="responsive_small" /></td>
                   </tr>
