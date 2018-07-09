@@ -479,6 +479,61 @@
                      <td align="center" bgcolor="#ffffff">&nbsp;</td>
                   </tr>
                   <tr>
+                    <td align="center" bgcolor="#ffffff" style="padding: 30px 40px 30px;" class="padding_fix">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="small_block" style="">
+                        <tbody>
+                                            
+                            <tr>
+                            <td width="50%" valign="top" class="small_center" style="padding-top: 10px;">
+                                <table width="93%" border="0" cellpadding="0" cellspacing="0" class="small_block" top="0">
+                                <tbody>
+                                    <tr>
+                                    <td align="right" bgcolor="#ffffff">
+                                        <img src="https://karmagroup.com/wp-content/themes/karma/imgs/Phone-new.png" alt="karma group" width="270" style="max-width: 270px;height: auto;font-family: sans-serif;font-size: 15px;line-height: 140%;color: #555555;">          
+                                    </td>
+                                    </tr>
+                                                    
+                                                    
+                                </tbody>
+                                </table>    
+                            </td>
+                            <td width="50%" align="right" valign="top" class="small_center padding_fix" style="padding-top: 10px;padding-left: 0;">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0" class="small_block">
+                                <tbody>
+                                                    
+                                                    
+                                                    
+                                    <tr>
+                                    <td style="padding-bottom: 20px;padding-top:20px;font-family: sans-serif;font-size: 20px;line-height: 140%;color: #8d734b;font-weight: bold;text-align:center;">
+                                        <p style="margin:0;">DOWNLOAD<br> FREE-FLOWING<br>
+                                        KARMA</p>
+                                    </td>    
+                                    </tr>
+                                    <tr>
+                                    <td style="padding: 0;font-family: sans-serif;font-size: 14px;line-height: 140%;color: #414141;font-weight: normal;text-align:center;">
+                                        <p style="margin:0;"><a href="https://play.google.com/store/apps/details?id=com.karmagroups" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/odyssey/juny/images/Odyssey-News-AsiaPac-180601_25.jpg" width="165" height="53"></a></p>
+                                    </td>    
+                                    </tr>
+                                    <tr>
+                                    <td style="padding-top: 10px;font-family: sans-serif;font-size: 14px;line-height: 140%;color: #414141;font-weight: normal;text-align:center;">
+                                        <p style="margin:0;"><a href="https://itunes.apple.com/in/app/karma-resorts/id1296156992?mt=8" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/odyssey/juny/images/Odyssey-News-AsiaPac-180601_28.jpg" width="165" height="53"></a></p>
+                                    </td>    
+                                    </tr>
+                                                    
+                                    <tr>
+                                    <td style="padding-top: 10px;font-family: sans-serif;font-size: 14px;line-height: 140%;color: #414141;font-weight: normal;text-align:center;">
+                                        <p style="margin:0;">Put more service &amp; savings <br>in your pocket</p>
+                                    </td>    
+                                    </tr>
+                                </tbody>
+                                </table>  		  
+                            </td>
+                            </tr>
+                        </tbody>
+                        </table>    
+                    </td>    
+                </tr>
+                  <tr>
                      <td align="center" bgcolor="#FFFFFF" style="padding-bottom:10px;padding-top:15px;padding-left:20px;padding-right:20px;">
                         <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><a target="_blank" href="https://www.facebook.com/karmagroupglobal"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/FB.jpg" width="49" height="36"></a><a target="_blank" href="https://twitter.com/karmaresorts/"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/TW.jpg" width="55" height="36"></a><a href="https://www.instagram.com/karma.group/" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/honeymoon/images/instagram.jpg" width="58" height="36"></a><a href="https://plus.google.com/+Karmaresorts/about/" target="_blank"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/google.jpg" width="47" height="36"></a></p>
                         <p style="font-family:Gotham, Helvetica, Arial, sans-serif;font-weight:400;font-size:20px;color:#8a723e;line-height:1.3;"><img src="http://karmaresorts.com/wecreate/edm/Karma_Resorts/past-guest/images/KK_EDM_Redesign_170316---Copy_31.jpg" width="300" height="29" /></p>
