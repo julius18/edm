@@ -433,7 +433,7 @@
                             <tr>
                                 <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0px 40px 25px 40px;">
                                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 300; font-size: 13px; color: #414141; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                                        Thank you for entering the Feel Good with Karma prize draw to WIN 7 nights at Karma Kandara, Bali. The winner will be drawn and notified on Monday 30th July 2018. Good luck! See full Terms and Conditions <a style="color:#8d7249;text-decoration:underline;" href="https://karmagroup.com/sevens-terms-and-conditions/" target="_blank"><strong>here</strong></a>.
+                                        Thank you for entering the Feel Good with Karma prize draw to WIN 7 nights at Karma Kandara, Bali. The winner will be drawn and notified on Tuesday 31<sup>th</sup> July 2018. Good luck! See full Terms and Conditions <a style="color:#8d7249;text-decoration:underline;" href="https://karmagroup.com/feelgood-terms-and-conditions/" target="_blank"><strong>here</strong></a>.
                                     </p>
                                 </td>
                             </tr>
@@ -446,7 +446,7 @@
                             </tr>
                             <tr>
                                 <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
-                                    <a href="https://dev.karmagroup.com/WP/vouchers-feel-good/?id=<?php echo $_GET['userId'] ?>">
+                                    <a href="https://karmagroup.com/vouchers-feel-good/?id=<?php echo $_GET['userId'] ?>" target="_blank">
                                         <img src="http://karmaresorts.com/wecreate/edm/Karma_Group/KG_EDM_Protein_World/images/cta.png" width="300" height="31" />
                                     </a>
                                 </td>
@@ -454,7 +454,7 @@
                             <tr>
                                 <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0px 40px 25px 40px;">
                                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 300; font-size: 13px; color: #414141; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                                        From barefoot boho luxury at<a href="https://karmagroup.com/find-destination/karma-resorts/karma-kandara" style="text-decoration: underline; color: #8a723e;"><strong>Karma Kandara</strong></a> beach resort in Bali, to lake view balconies at boutique <a href="https://karmagroup.com/find-destination/karma-retreats/karma-chakra" style="text-decoration: underline; color: #8a723e;"><strong>Karma Chakra</strong></a> in Kerala India, or skiing and hiking in <a href="https://karmagroup.com/find-destination/karma-resorts/karma-bavaria" style="text-decoration: underline; color: #8a723e;"><strong>Karma Bavaria&#x2019;s</strong></a> picturesque Alpine setting, Karma has the ideal destination for everyone. 
+                                        From barefoot boho luxury at <a href="https://karmagroup.com/find-destination/karma-resorts/karma-kandara" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Kandara</strong></a> beach resort in Bali, to lake view balconies at boutique <a href="https://karmagroup.com/find-destination/karma-retreats/karma-chakra" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Chakra</strong></a> in Kerala India, or skiing and hiking in <a href="https://karmagroup.com/find-destination/karma-resorts/karma-bavaria" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Bavaria&#x2019;s</strong></a> picturesque Alpine setting, Karma has the ideal destination for everyone. 
                                     </p>
                                 </td>
                             </tr>                       
@@ -468,7 +468,7 @@
                             <tr>
                                 <td align="center" bgcolor="#FFFFFF" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0px 40px 25px 40px;">
                                     <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 300; font-size: 13px; color: #414141; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                                            To book your accommodation, please email the Karma Group reservation team at <a href="mailto:feelgood@karmagroup.com" style="color: #8d7249"><strong>feelgood@karmagroup.com</strong></a> and quote your unique voucher code. Please see the full voucher terms and conditions <a style="color:#8d7249;text-decoration:underline;" href="#" target="_blank"><strong>here</strong></a>.
+                                            To book accommodation using your voucher, please email the Karma Group reservation team at <a href="mailto:feelgood@karmagroup.com" style="color: #8d7249"><strong>feelgood@karmagroup.com</strong></a> and quote your unique voucher code. Please see the full voucher terms and conditions <a style="color:#8d7249;text-decoration:underline;" href="https://karmagroup.com/feelgood-terms-and-conditions/" target="_blank"><strong>here</strong></a>.
                                     </p>
                                 </td>
                             </tr>
