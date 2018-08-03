@@ -433,8 +433,8 @@
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            From barefoot boho luxury at <a href="https://karmagroup.com/find-destination/karma-resorts/karma-kandara" style="text-decoration: underline; color: #8a723e;"><strong>Karma Kandara</strong></a> beach resort in Bali, to lake view balconies at boutique <a href="https://karmagroup.com/find-destination/karma-retreats/karma-chakra" style="text-decoration: underline; color: #8a723e;"><strong>Karma Chakra</strong></a> in Kerala India, or skiing and hiking in <a href="https://karmagroup.com/find-destination/karma-resorts/karma-bavaria" style="text-decoration: underline; color: #8a723e;"><strong>Karma Bavaria&#x2019;s</strong></a> picturesque Alpine setting, Karma has the ideal destination for everyone. <br/>
-                            Get inspired at <a href="https://karmagroup.com/" style="text-decoration: underline; color: #000000;">www.karmagroup.com</a>
+                            From barefoot boho luxury at <a href="https://karmagroup.com/find-destination/karma-resorts/karma-kandara" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Kandara</strong></a> beach resort in Bali, to lake view balconies at boutique <a href="https://karmagroup.com/find-destination/karma-retreats/karma-chakra" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Chakra</strong></a> in Kerala India, or skiing and hiking in <a href="https://karmagroup.com/find-destination/karma-resorts/karma-bavaria" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>Karma Bavaria&#x2019;s</strong></a> picturesque Alpine setting, Karma has the ideal destination for everyone. <br/>
+                            Get inspired at <a href="https://karmagroup.com/" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>www.karmagroup.com</strong></a>
                         </p>
                      </td>
                   </tr>
@@ -461,14 +461,14 @@
                             <strong>Terms and Conditions.</strong>
                         </p>
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            *3 x US$100 vouchers against accommodation of 3 nights or more at any Karma Resort or Retreat. One voucher per stay. Vouchers valid for 1 year &#x2013; see expiry date on vouchers. Booking subject to availability and black-out dates. See full voucher T&C&#x2019;s <a href="https://www.proteinworld.com/terms#competition" style="text-decoration: underline; color: #000000"><strong>here</strong></a>, and on digital vouchers.      
+                            *3 x US$100 vouchers against accommodation of 3 nights or more at any Karma Resort or Retreat. One voucher per stay. Vouchers valid for 1 year &#x2013; see expiry date on vouchers. Booking subject to availability and black-out dates. See full voucher T&C&#x2019;s <a href="https://www.proteinworld.com/terms#competition" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>here</strong></a>, and on digital vouchers.      
                         </p>
                         </td>
                     </tr>
                     <tr>
                         <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            To book your accommodation, please contact the Karma Group reservation team on <a href="mailto:prowres@karmagroup.com" style="color: #000000"><strong>prowres@karmagroup.com</strong></a> and quote your unique voucher code.
+                            To book your accommodation, please contact the Karma Group reservation team on <a href="mailto:prowres@karmagroup.com" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>prowres@karmagroup.com</strong></a> and quote your unique voucher code.
                         </p>
                         </td>
                     </tr>                    
