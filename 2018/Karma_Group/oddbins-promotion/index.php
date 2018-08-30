@@ -434,7 +434,7 @@
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            Don&#x2019;t forget, <strong style="color: #8a723e;">every entrant also receives an exclusive &#xa3;250 voucher</strong> to use against booking accommodation at selected Karma resorts or retreats worldwide. Simply click the button below to confirm your details and download your personalised voucher.
+                            Don&#x2019;t forget, <strong style="color: #8a723e;">every entrant also receives an exclusive &#xa3;250 voucher</strong> to use against booking accommodation at selected Karma resorts worldwide. Simply click the button below to confirm your details and download your personalised voucher.
                         </p>
                      </td>
                   </tr>        
