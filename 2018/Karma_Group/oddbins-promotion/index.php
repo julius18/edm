@@ -427,7 +427,7 @@
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            Thank you for entering the Oddbins prize draw to <strong style="color: #8a723e;">win one of five Karma weekend escapes to Tuscany</strong>. The closing date for entries is midnight on 16th September 2018. Good luck! 
+                            Thank you for entering the Oddbins prize draw to <strong style="color: #8a723e;">win one of five Karma weekend escapes to Tuscany</strong>. The closing date for entries was midnight on 16th September 2018.
                         </p>
                      </td>
                   </tr>
