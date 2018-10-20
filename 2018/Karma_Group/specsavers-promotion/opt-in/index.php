@@ -440,7 +440,7 @@
                   </tr>        
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
-                        <a href="https://dev.karmagroup.com/WP/specsavers-promotion/?email=<?php echo $_GET['email'] ?>" target="_blank">
+                        <a href="https://karmagroup.com/specsavers/?email=<?php echo $_GET['email'] ?>" target="_blank">
                             <img src="http://karmaresorts.com/wecreate/edm/Karma_Group/specsavers-promotion/images/cta.png" width="300" height="31" />
                         </a>
                      </td>
@@ -456,7 +456,7 @@
                     <tr>
                         <td align="center" bgcolor="#f2f2f2" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
                         <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            To book your accommodation using your voucher, please email the Karma Group reservation team at <a href="mailto:specsavers@karmagroup.com" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>specsavers@karmagroup.com</strong></a> and quote your unique voucher code. Terms and conditions apply, see digital voucher or click <a href="https://www.specsavers.co.uk/prizes/" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>here</strong></a> for details.                             
+                            To book your accommodation using your voucher, please email the Karma Group reservation team at <a href="mailto:specsavers@karmaexperience.co.uk" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>specsavers@karmaexperience.co.uk</strong></a> and quote your unique voucher code. Terms and conditions apply, see digital voucher or click <a href="https://www.specsavers.co.uk/prizes/" style="text-decoration: underline; color: #8a723e;" target="_blank"><strong>here</strong></a> for details.                             
                         </p>
                         </td>
                     </tr>                    

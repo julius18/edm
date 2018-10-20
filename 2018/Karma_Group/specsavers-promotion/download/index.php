@@ -405,8 +405,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-spacing: 0;border-collapse: collapse;">
          <span class="preheader" style="display: none !important;color:#e5e5e5 !important;"></span>
          <tr>
-            <td bgcolor="#e5e5e5" align="center">
-               <p style="color: #484848;font-size: 12px; font-family:Arial, sans-serif;text-align: center;margin: 5px;margin-bottom: 10px;">If this email is not displaying properly, please <a href="http://karmaresorts.com/wecreate/edm/Karma_Group/specsavers-promotion/opt-in/?email=dennice.gevandha@karmagroup.com" style="font-family: Arial, sans-serif;color: #96824b;outline: none;border: none;">click here</a></p>
+            <td bgcolor="#e5e5e5" align="center">               
                <table width="720" class="main" border="0" align="center" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; text-align: justify;">
 
                   <tr>
@@ -419,29 +418,25 @@
                      <td align="center" bgcolor="#ffffff">&nbsp;</td>
                   </tr>
                   <tr>
-                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
-                        <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            <strong>THANK YOU!</strong>
-                        </p>
-                     </td>                     
-                  </tr>
-                  <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
-                        <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            Thank you for entering the Specsavers prize draw to <strong style="color: #8a723e;">win a 7 night break for two at Karma Tuscany.</strong> The closing date for entries is midnight on 31<sup>st</sup> March 2019. Good luck! 
-                        </p>
-                     </td>
+                    <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 18px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+                        <strong>THANK YOU!</strong>
+                    </p>
+                    <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+                        For confirming your details and downloading your £250 Karma voucher.
+                    </p>
+                 </td>                         
                   </tr>
-                  <tr>
-                    <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:20px 40px 25px 40px;">
-                        <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
-                            You also registered to receive your <strong style="color: #8a723e;">exclusive &#xa3;250 voucher</strong> to use against booking accommodation at selected Karma resorts worldwide. Simply click the button below to confirm your details and download your personalised voucher.                           
-                        </p>
-                     </td>
-                  </tr>        
                   <tr>
                     <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
-                        <a href="https://karmagroup.com/specsavers/?email=dennice.gevandha@karmagroup.com" target="_blank">
+                        <p class="fallback-text" style="font-family: 'Open Sans', Arial, sans-serif;font-weight: 400; font-size: 14px; color: #000000; mso-line-height-rule: exactly;line-height:150%; Margin-top: 0; Margin-bottom: 0; text-align: center;">
+                            Please use the button below if you need to redownload this at any time.
+                        </p>
+                     </td>
+                  </tr>                 
+                  <tr>
+                    <td align="center" bgcolor="#ffffff" class="row_content fallback-text smltext" style="font-family: 'Open Sans', Arial, sans-serif;padding:0 40px 25px 40px;">
+                        <a href="https://card.karmaclub.com/voucher-specsavers-<?php echo $_GET["kc_id"] ?>.pdf" target="_blank">
                             <img src="http://karmaresorts.com/wecreate/edm/Karma_Group/specsavers-promotion/images/cta.png" width="300" height="31" />
                         </a>
                      </td>
